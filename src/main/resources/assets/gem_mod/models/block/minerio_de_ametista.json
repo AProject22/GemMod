@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gem_mod:blocks/minerio_de_ametista",
+    "up": "gem_mod:blocks/minerio_de_ametista",
+    "north": "gem_mod:blocks/minerio_de_ametista",
+    "east": "gem_mod:blocks/minerio_de_ametista",
+    "south": "gem_mod:blocks/minerio_de_ametista",
+    "west": "gem_mod:blocks/minerio_de_ametista",
+    "particle": "gem_mod:blocks/minerio_de_ametista"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MinerioDeAmetista",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerio_de_ametista"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.gem_mod.minerio_de_ametista": "Minerio De Ametista"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gem_mod",
+    "modName": "Gem mod",
+    "version": "1.0.0",
+    "author": "Casa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.gemmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
