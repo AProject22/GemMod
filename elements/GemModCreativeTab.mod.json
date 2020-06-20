@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Gem Mod Creative Tab",
+    "icon": {
+      "value": "CUSTOM:Ametista"
+    },
+    "showSearch": false
+  }
+}

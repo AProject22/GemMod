@@ -1,0 +1,30 @@
+{
+  "group": "gem_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "gem_mod:jaspe"
+    },
+    "1": {
+      "item": "gem_mod:jaspe"
+    },
+    "2": {
+      "item": "gem_mod:jaspe"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gem_mod:jasper_pickaxe",
+    "count": 1
+  }
+}

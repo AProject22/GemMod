@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gem_mod:blocks/minerio_de_safira",
+    "up": "gem_mod:blocks/minerio_de_safira",
+    "north": "gem_mod:blocks/minerio_de_safira",
+    "east": "gem_mod:blocks/minerio_de_safira",
+    "south": "gem_mod:blocks/minerio_de_safira",
+    "west": "gem_mod:blocks/minerio_de_safira",
+    "particle": "gem_mod:blocks/minerio_de_safira"
+  }
+}

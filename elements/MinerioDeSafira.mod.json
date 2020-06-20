@@ -2,12 +2,12 @@
   "_fv": 8,
   "_type": "block",
   "definition": {
-    "texture": "minerio_de_ametista",
-    "textureTop": "minerio_de_ametista",
-    "textureLeft": "minerio_de_ametista",
-    "textureFront": "minerio_de_ametista",
-    "textureRight": "minerio_de_ametista",
-    "textureBack": "minerio_de_ametista",
+    "texture": "minerio_de_safira",
+    "textureTop": "minerio_de_safira",
+    "textureLeft": "minerio_de_safira",
+    "textureFront": "minerio_de_safira",
+    "textureRight": "minerio_de_safira",
+    "textureBack": "minerio_de_safira",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,17 +20,17 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Amethyst Ore",
+    "name": "Minerio De Safira",
     "specialInfo": [],
-    "hardness": 2.0,
+    "hardness": 5.0,
     "resistance": 10.0,
     "hasGravity": false,
     "creativeTab": {
       "value": "CUSTOM:GemModCreativeTab"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:Ametista"
+      "value": "CUSTOM:Safira"
     },
     "dropAmount": 1,
     "isBeaconBase": false,
@@ -61,7 +61,7 @@
     },
     "luminance": 0.0,
     "unbreakable": false,
-    "breakHarvestLevel": 2,
+    "breakHarvestLevel": 4,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -89,8 +89,8 @@
       }
     ],
     "frequencyPerChunks": 10,
-    "frequencyOnChunk": 4,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 15
+    "maxGenerateHeight": 10
   }
 }

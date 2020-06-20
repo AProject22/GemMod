@@ -2,12 +2,12 @@
   "_fv": 8,
   "_type": "block",
   "definition": {
-    "texture": "minerio_de_ametista",
-    "textureTop": "minerio_de_ametista",
-    "textureLeft": "minerio_de_ametista",
-    "textureFront": "minerio_de_ametista",
-    "textureRight": "minerio_de_ametista",
-    "textureBack": "minerio_de_ametista",
+    "texture": "minerio_de_jaspe",
+    "textureTop": "minerio_de_jaspe",
+    "textureLeft": "minerio_de_jaspe",
+    "textureFront": "minerio_de_jaspe",
+    "textureRight": "minerio_de_jaspe",
+    "textureBack": "minerio_de_jaspe",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,9 +20,9 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Amethyst Ore",
+    "name": "Jasper ore",
     "specialInfo": [],
-    "hardness": 2.0,
+    "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "creativeTab": {
@@ -30,7 +30,7 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:Ametista"
+      "value": "CUSTOM:Jaspe"
     },
     "dropAmount": 1,
     "isBeaconBase": false,
@@ -61,7 +61,7 @@
     },
     "luminance": 0.0,
     "unbreakable": false,
-    "breakHarvestLevel": 2,
+    "breakHarvestLevel": 4,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -88,9 +88,9 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 4,
+    "frequencyPerChunks": 15,
+    "frequencyOnChunk": 5,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 15
+    "maxGenerateHeight": 40
   }
 }

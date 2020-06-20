@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gem_mod:blocks/minerio_de_rubi",
+    "up": "gem_mod:blocks/minerio_de_rubi",
+    "north": "gem_mod:blocks/minerio_de_rubi",
+    "east": "gem_mod:blocks/minerio_de_rubi",
+    "south": "gem_mod:blocks/minerio_de_rubi",
+    "west": "gem_mod:blocks/minerio_de_rubi",
+    "particle": "gem_mod:blocks/minerio_de_rubi"
+  }
+}

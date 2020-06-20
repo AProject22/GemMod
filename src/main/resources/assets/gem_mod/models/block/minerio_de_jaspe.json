@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gem_mod:blocks/minerio_de_jaspe",
+    "up": "gem_mod:blocks/minerio_de_jaspe",
+    "north": "gem_mod:blocks/minerio_de_jaspe",
+    "east": "gem_mod:blocks/minerio_de_jaspe",
+    "south": "gem_mod:blocks/minerio_de_jaspe",
+    "west": "gem_mod:blocks/minerio_de_jaspe",
+    "particle": "gem_mod:blocks/minerio_de_jaspe"
+  }
+}

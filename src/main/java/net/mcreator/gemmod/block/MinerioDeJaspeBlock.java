@@ -27,7 +27,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.gemmod.itemgroup.GemModCreativeTabItemGroup;
-import net.mcreator.gemmod.item.AmetistaItem;
+import net.mcreator.gemmod.item.JaspeItem;
 import net.mcreator.gemmod.GemModModElements;
 
 import java.util.Random;
@@ -35,11 +35,11 @@ import java.util.List;
 import java.util.Collections;
 
 @GemModModElements.ModElement.Tag
-public class MinerioDeAmetistaBlock extends GemModModElements.ModElement {
-	@ObjectHolder("gem_mod:minerio_de_ametista")
+public class MinerioDeJaspeBlock extends GemModModElements.ModElement {
+	@ObjectHolder("gem_mod:minerio_de_jaspe")
 	public static final Block block = null;
-	public MinerioDeAmetistaBlock(GemModModElements instance) {
-		super(instance, 1);
+	public MinerioDeJaspeBlock(GemModModElements instance) {
+		super(instance, 15);
 	}
 
 	@Override
@@ -50,9 +50,9 @@ public class MinerioDeAmetistaBlock extends GemModModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(2f, 10f).lightValue(0).harvestLevel(2)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).lightValue(0).harvestLevel(4)
 					.harvestTool(ToolType.PICKAXE));
-			setRegistryName("minerio_de_ametista");
+			setRegistryName("minerio_de_jaspe");
 		}
 
 		@Override
@@ -60,7 +60,7 @@ public class MinerioDeAmetistaBlock extends GemModModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(AmetistaItem.block, (int) (1)));
+			return Collections.singletonList(new ItemStack(JaspeItem.block, (int) (1)));
 		}
 	}
 	@Override
@@ -77,13 +77,12 @@ public class MinerioDeAmetistaBlock extends GemModModElements.ModElement {
 						return false;
 					return super.place(world, generator, rand, pos, config);
 				}
-			}.withConfiguration(
-					new OreFeatureConfig(OreFeatureConfig.FillerBlockType.create("minerio_de_ametista", "minerio_de_ametista", blockAt -> {
-						boolean blockCriteria = false;
-						if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
-							blockCriteria = true;
-						return blockCriteria;
-					}), block.getDefaultState(), 4)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(10, 0, 0, 15))));
+			}.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.create("minerio_de_jaspe", "minerio_de_jaspe", blockAt -> {
+				boolean blockCriteria = false;
+				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
+					blockCriteria = true;
+				return blockCriteria;
+			}), block.getDefaultState(), 5)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(15, 0, 0, 40))));
 		}
 	}
 }

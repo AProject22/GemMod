@@ -9,13 +9,588 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "minerio_de_ametista"
+    },
+    {
+      "name": "Ametista",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ametista"
+    },
+    {
+      "name": "GemModCreativeTab",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gem_mod_creative_tab"
+    },
+    {
+      "name": "AmethystToolPackPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_pickaxe"
+    },
+    {
+      "name": "AmethystToolPackAxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_axe"
+    },
+    {
+      "name": "AmethystToolPackSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_sword"
+    },
+    {
+      "name": "AmethystToolPackShovel",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_shovel"
+    },
+    {
+      "name": "AmethystToolPackHoe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_hoe"
+    },
+    {
+      "name": "AmethystToolPackPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_pickaxe_recipe"
+    },
+    {
+      "name": "AmethystToolPackAxeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_axe_recipe"
+    },
+    {
+      "name": "AmethystToolPackSwordRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_sword_recipe"
+    },
+    {
+      "name": "AmethystToolPackShovelRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_shovel_recipe"
+    },
+    {
+      "name": "AmethystToolPackHoeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_tool_pack_hoe_recipe"
+    },
+    {
+      "name": "Jaspe",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jaspe"
+    },
+    {
+      "name": "MinerioDeJaspe",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerio_de_jaspe"
+    },
+    {
+      "name": "JasperPickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_pickaxe"
+    },
+    {
+      "name": "JasperAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_axe"
+    },
+    {
+      "name": "JasperSword",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_sword"
+    },
+    {
+      "name": "JasperShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_shovel"
+    },
+    {
+      "name": "JasperHoe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_hoe"
+    },
+    {
+      "name": "JasperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_pickaxe_recipe"
+    },
+    {
+      "name": "JasperAxeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_axe_recipe"
+    },
+    {
+      "name": "JasperSwordRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_sword_recipe"
+    },
+    {
+      "name": "JasperShovelRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_shovel_recipe"
+    },
+    {
+      "name": "JasperHoeRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jasper_hoe_recipe"
+    },
+    {
+      "name": "Safira",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "safira"
+    },
+    {
+      "name": "MinerioDeSafira",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerio_de_safira"
+    },
+    {
+      "name": "SapphirePickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_pickaxe"
+    },
+    {
+      "name": "SapphireAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_axe"
+    },
+    {
+      "name": "SapphireSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_sword"
+    },
+    {
+      "name": "SapphireShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_shovel"
+    },
+    {
+      "name": "SapphireHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_hoe"
+    },
+    {
+      "name": "SapphirePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_pickaxe_recipe"
+    },
+    {
+      "name": "SapphireAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_axe_recipe"
+    },
+    {
+      "name": "SapphireSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_sword_recipe"
+    },
+    {
+      "name": "SapphireShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_shovel_recipe"
+    },
+    {
+      "name": "SapphireHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapphire_hoe_recipe"
+    },
+    {
+      "name": "Malaquita",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malaquita"
+    },
+    {
+      "name": "MinerioDeMalaquita",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerio_de_malaquita"
+    },
+    {
+      "name": "Rubi",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi"
+    },
+    {
+      "name": "MinerioDeRubi",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerio_de_rubi"
+    },
+    {
+      "name": "MalachitePickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_pickaxe"
+    },
+    {
+      "name": "MalachiteAxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_axe"
+    },
+    {
+      "name": "MalachiteSword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_sword"
+    },
+    {
+      "name": "MalachiteShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_shovel"
+    },
+    {
+      "name": "MalachiteHoe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_hoe"
+    },
+    {
+      "name": "MalachitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_pickaxe_recipe"
+    },
+    {
+      "name": "MalachiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_axe_recipe"
+    },
+    {
+      "name": "MalachiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_sword_recipe"
+    },
+    {
+      "name": "MalachiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_shovel_recipe"
+    },
+    {
+      "name": "MalachiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_hoe_recipe"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.gem_mod.minerio_de_ametista": "Minerio De Ametista"
+      "item.gem_mod.malachite_hoe": "Malachite Hoe",
+      "block.gem_mod.minerio_de_ametista": "Amethyst Ore",
+      "item.gem_mod.jasper_sword": "Jasper Sword",
+      "item.gem_mod.amethyst_tool_pack_shovel": "AmethystToolPack Shovel",
+      "item.gem_mod.ametista": "Amethyst",
+      "item.gem_mod.sapphire_hoe": "Sapphire Hoe",
+      "item.gem_mod.ruby_shovel": "Ruby Shovel",
+      "item.gem_mod.sapphire_pickaxe": "Sapphire Pickaxe",
+      "item.gem_mod.malachite_sword": "Malachite Sword",
+      "item.gem_mod.jasper_pickaxe": "Jasper Pickaxe",
+      "item.gem_mod.safira": "Sapphire",
+      "item.gem_mod.malaquita": "Malachite",
+      "block.gem_mod.minerio_de_rubi": "Ruby Ore",
+      "item.gem_mod.ruby_axe": "Ruby Axe",
+      "item.gem_mod.jasper_hoe": "Jasper Hoe",
+      "item.gem_mod.amethyst_tool_pack_pickaxe": "Amethyst Pickaxe",
+      "item.gem_mod.jaspe": "Jasper",
+      "item.gem_mod.sapphire_sword": "Sapphire Sword",
+      "item.gem_mod.ruby_sword": "Ruby Sword",
+      "item.gem_mod.amethyst_tool_pack_sword": "AmethystToolPack Sword",
+      "item.gem_mod.ruby_pickaxe": "Ruby Pickaxe",
+      "itemGroup.tabgem_mod_creative_tab": "Gem Mod Creative Tab",
+      "item.gem_mod.sapphire_shovel": "Sapphire Shovel",
+      "item.gem_mod.rubi": "Ruby",
+      "item.gem_mod.ruby_hoe": "Ruby Hoe",
+      "item.gem_mod.jasper_shovel": "Jasper Shovel",
+      "item.gem_mod.amethyst_tool_pack_axe": "AmethystToolPack Axe",
+      "item.gem_mod.malachite_pickaxe": "Malachite Pickaxe",
+      "item.gem_mod.jasper_axe": "Jasper Axe",
+      "block.gem_mod.minerio_de_jaspe": "Jasper ore",
+      "item.gem_mod.malachite_shovel": "Malachite Shovel",
+      "item.gem_mod.malachite_axe": "Malachite Axe",
+      "item.gem_mod.amethyst_tool_pack_hoe": "AmethystToolPack Hoe",
+      "block.gem_mod.minerio_de_safira": "Minerio De Safira",
+      "item.gem_mod.sapphire_axe": "Sapphire Axe",
+      "block.gem_mod.minerio_de_malaquita": "Malachite Ore"
     }
   },
   "workspaceSettings": {

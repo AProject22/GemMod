@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gem_mod:blocks/minerio_de_malaquita",
+    "up": "gem_mod:blocks/minerio_de_malaquita",
+    "north": "gem_mod:blocks/minerio_de_malaquita",
+    "east": "gem_mod:blocks/minerio_de_malaquita",
+    "south": "gem_mod:blocks/minerio_de_malaquita",
+    "west": "gem_mod:blocks/minerio_de_malaquita",
+    "particle": "gem_mod:blocks/minerio_de_malaquita"
+  }
+}

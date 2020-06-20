@@ -1,0 +1,24 @@
+{
+  "group": "gem_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "gem_mod:ametista"
+    },
+    "1": {
+      "item": "gem_mod:ametista"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gem_mod:amethyst_tool_pack_sword",
+    "count": 1
+  }
+}
