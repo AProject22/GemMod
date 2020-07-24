@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jaspe_cristal",
+        "1": "jaspe_cristal_001",
+        "2": "jaspe_cristal_002",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

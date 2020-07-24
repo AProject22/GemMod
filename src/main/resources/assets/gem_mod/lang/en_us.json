@@ -1,8 +1,8 @@
 {
   "item.gem_mod.malachite_hoe": "Malachite Hoe",
   "block.gem_mod.minerio_de_ametista": "Amethyst Ore",
-  "item.gem_mod.jasper_sword": "Jasper Sword",
   "item.gem_mod.amethyst_tool_pack_shovel": "AmethystToolPack Shovel",
+  "item.gem_mod.jasper_sword": "Jasper Sword",
   "item.gem_mod.ametista": "Amethyst",
   "item.gem_mod.sapphire_hoe": "Sapphire Hoe",
   "item.gem_mod.ruby_shovel": "Ruby Shovel",
@@ -34,5 +34,6 @@
   "item.gem_mod.amethyst_tool_pack_hoe": "AmethystToolPack Hoe",
   "block.gem_mod.minerio_de_safira": "Minerio De Safira",
   "item.gem_mod.sapphire_axe": "Sapphire Axe",
-  "block.gem_mod.minerio_de_malaquita": "Malachite Ore"
+  "block.gem_mod.minerio_de_malaquita": "Malachite Ore",
+  "block.gem_mod.jaspe_cristal": "Jaspe Cristal"
 }

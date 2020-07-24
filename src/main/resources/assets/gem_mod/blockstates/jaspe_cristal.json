@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gem_mod:block/jaspe_cristal"
+    },
+    "facing=east": {
+      "model": "gem_mod:block/jaspe_cristal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gem_mod:block/jaspe_cristal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gem_mod:block/jaspe_cristal",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "gem_mod:block/jaspe_cristal",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "gem_mod:block/jaspe_cristal",
+      "x": 90
+    }
+  }
+}

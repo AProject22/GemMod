@@ -1,0 +1,11 @@
+{
+  "parent": "gem_mod:custom/jaspe_crystal",
+  "textures": {
+    "all": "gem_mod:blocks/jaspe_cristal",
+    "particle": "gem_mod:blocks/jaspe_cristal",
+    "0": "gem_mod:blocks/jaspe_cristal",
+    "1": "gem_mod:blocks/jaspe_cristal_001",
+    "2": "gem_mod:blocks/jaspe_cristal_002",
+    "missing": "gem_mod:blocks/"
+  }
+}
